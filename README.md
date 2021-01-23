@@ -1,6 +1,6 @@
 # Santa-Viewer
 
-A window that allows you to view a 3D cubical model of Santa Claus by moving around the screen.This was written using the Pygame library in Python.
+A window that allows you to view a 3D cubical model of Santa Claus by moving around the screen. This was written using the Pygame library in Python.
 
 <p align="center">
   <img src="https://github.com/GrantPau/Santa-Viewer/blob/main/Clips/santa.gif" alt="animated" />

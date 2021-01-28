@@ -1,4 +1,4 @@
-# Santa-Viewer
+# Santa Viewer
 
 A window that allows you to view a 3D cubical model of Santa Claus by moving around the screen. This was written using the Pygame library in Python.
 
